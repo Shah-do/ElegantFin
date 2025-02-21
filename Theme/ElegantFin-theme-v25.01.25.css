@@ -51,7 +51,7 @@
 
     /* login page customizations */
     --loginPageBgUrl: url("");
-    --loginPageText: "Sign in to continue";
+    --loginPageText: "";
 
     --blurSmallest: blur(2px);
     --blurDefault: blur(5px);
